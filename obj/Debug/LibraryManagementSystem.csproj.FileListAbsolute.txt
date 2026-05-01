@@ -1,0 +1,26 @@
+C:\Users\eousl\OneDrive\Desktop\C#\LMS Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\eousl\OneDrive\Desktop\C#\LMS Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Forms.LibrarianForm.resources
+C:\Users\eousl\OneDrive\Desktop\C#\LMS Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Forms.LoginForm.resources
+C:\Users\eousl\OneDrive\Desktop\C#\LMS Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Forms.MemberForm.resources
+C:\Users\eousl\OneDrive\Desktop\C#\LMS Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+C:\Users\eousl\OneDrive\Desktop\C#\LMS Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.cache
+C:\Users\eousl\OneDrive\Desktop\C#\LMS Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\eousl\OneDrive\Desktop\C#\LMS Project\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+C:\Users\eousl\OneDrive\Desktop\C#\LMS Project\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+C:\Users\eousl\OneDrive\Desktop\C#\LMS Project\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+C:\Users\eousl\OneDrive\Desktop\C#\LMS Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+C:\Users\eousl\OneDrive\Desktop\C#\LMS Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+C:\Users\eousl\OneDrive\Desktop\C#\LMS Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe.config
+C:\Users\eousl\OneDrive\Desktop\C#\ITECA0-44 Project Midrand EDUV4900945\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+C:\Users\eousl\OneDrive\Desktop\C#\ITECA0-44 Project Midrand EDUV4900945\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+C:\Users\eousl\OneDrive\Desktop\C#\ITECA0-44 Project Midrand EDUV4900945\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+C:\Users\eousl\OneDrive\Desktop\C#\ITECA0-44 Project Midrand EDUV4900945\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\eousl\OneDrive\Desktop\C#\ITECA0-44 Project Midrand EDUV4900945\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe.config
+C:\Users\eousl\OneDrive\Desktop\C#\ITECA0-44 Project Midrand EDUV4900945\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Forms.LibrarianForm.resources
+C:\Users\eousl\OneDrive\Desktop\C#\ITECA0-44 Project Midrand EDUV4900945\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Forms.LoginForm.resources
+C:\Users\eousl\OneDrive\Desktop\C#\ITECA0-44 Project Midrand EDUV4900945\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Forms.MemberForm.resources
+C:\Users\eousl\OneDrive\Desktop\C#\ITECA0-44 Project Midrand EDUV4900945\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+C:\Users\eousl\OneDrive\Desktop\C#\ITECA0-44 Project Midrand EDUV4900945\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.cache
+C:\Users\eousl\OneDrive\Desktop\C#\ITECA0-44 Project Midrand EDUV4900945\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\eousl\OneDrive\Desktop\C#\ITECA0-44 Project Midrand EDUV4900945\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+C:\Users\eousl\OneDrive\Desktop\C#\ITECA0-44 Project Midrand EDUV4900945\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
