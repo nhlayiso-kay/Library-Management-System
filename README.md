@@ -20,6 +20,6 @@ This is a fully functional management system developed in **C#** using **Windows
 2.  Open the `LibraryManagementSystem.sln` file in **Visual Studio**[cite: 2].
 3.  Press **F5** to build and run the application[cite: 1, 2].
 
-### Default Admin Credentials
-*   **Username:** `Admin`[cite: 1, 2]
-*   **Password:** `lib123`[cite: 1, 2]
+### Default Librarian Credentials
+*   **Username:** `Admin1` | **Password:** `lib123`
+*   **Username:** `Admin2` | **Password:** `lib456`
